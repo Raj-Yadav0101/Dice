@@ -38,7 +38,7 @@ while(i<=m){
 
 
 
-console.log(c);
+
 
 
 
